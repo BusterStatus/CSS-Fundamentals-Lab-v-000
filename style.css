@@ -16,21 +16,21 @@ a {
 
 figcaption {
   font-size: small;
-  align: center;
+  text-align: center;
 }
 
-section#introduction p {
+#introduction p {
   width: 800px;
-  align: center;
+  text-align: center;
 }
 
-section#details {
+#details {
   display: block;
 }
 
-section#details div {
+#details div {
   float: left;
   background-color: grey;
-  align: center;
+  text-align: center;
   width 25%;
 }
