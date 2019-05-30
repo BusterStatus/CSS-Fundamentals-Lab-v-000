@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, img {
+  align: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: small;
+  align: center;
+}
+
+section#introduction p {
+  width: 800px;
+  align: center;
+}
+
+section#details {
+  display: block;
+}
+
+section#details div {
+  float: left;
+  background-color: grey;
+  align: center;
+  width 25%;
+}
